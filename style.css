@@ -1,0 +1,134 @@
+
+body{ 
+    overflow-x: hidden;
+}
+
+
+@font-face {
+    font-family: regular ;
+    src: url(fonts/PepsiOwners2-Regular220909.ttf);
+}
+
+.logo{  width: 65px; position: relative; left: 30%;   }
+
+.container-fluid {   background-color: #0025FF; height: 90px; position: relative; bottom: 10px; }
+
+
+ .nav-item {position: relative; left: 20%; font-family: regular; font-size: 14px; height: 16.1px;
+ }
+
+ .nav-item > a{ color: white; float: left;
+    margin-right: 2.75rem;
+    font-size: .875rem;
+    cursor: pointer;
+    font-weight: 400;
+    white-space: nowrap  }
+
+ .btn{ font-family: regular; display: inline-block; position: relative; left: 96%;
+    font-size: 1em;
+    
+    padding: 0.5em 1.85em;
+    border: 2px solid #fff;
+    border-radius: 1.8em;
+    background: transparent;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    white-space: nowrap;
+    overflow: hidden;}
+
+.btn:hover{  color: #0025FF; background-color: white;   }
+
+.ratio{   position: relative; bottom: 20px;  }
+
+.img1{   position: relative;bottom: 20px;  }
+
+.shop { position: relative;left: 20.10%; bottom: 214px; border: 1px solid white; width: 377px; 
+font-family: regular; font-size: 43px; height: 50.3px;  }
+
+.shop{   border: ; height: 99px;   background-color: white;    }
+
+.shop:hover{   color: white; background-color: #0025FF; border:#0025FF ;   }
+
+.img2{  position: relative; bottom: 180px;    }
+
+.fan {  position: relative; bottom: 895px; left: 1.55%; display: inline;  }
+
+.nursery{    position: relative; left: 1.60%; bottom: 895px; display: inline;      }
+
+.nursery:hover{  color: #0025FF;    }
+
+.shop1 { position: relative;right: 32.40%; bottom: 853px; border: 1px solid white; width: 417px; 
+    font-family: regular; font-size: 36px; height: 30.2px;  }
+    
+.shop1{   border: ; height: 70px;   background-color: white;    }
+    
+.shop1:hover{   color: white; background-color: #0025FF; border:#0025FF ;   }
+
+
+.shop2 { position: relative;left: 66%; bottom: 922px; border: 1px solid white; width: 410px; 
+    font-family: regular; font-size: 36px; height: 30.2px;  }
+    
+.shop2{   border: ; height: 70px; background-color: white;    }
+    
+.shop2:hover{   color: white; background-color: #0025FF; border:#0025FF ;   }
+
+.pepsi {   position: relative; bottom: 653px;}
+
+
+@font-face {
+    font-family: extend ;
+    src: url(fonts/PepsiOwners2-Extended220909.ttf);
+}
+
+.stay{ font-family: extend; font-size: 42px; height: 48.3px; color: #1636ff; position: relative;
+bottom: 655px; left: 11%;             }
+
+.black{ background-color: #000;
+    padding-bottom: 44px;  position: relative; bottom: 720.80px; height: 350px; z-index: -1;  }
+
+
+.img-f{ display: flex;  flex-direction: row; position: relative; bottom: 980px; left: 3.50%;    }
+
+
+.fotar1  { position: relative; top: 9px;   }
+    
+.fotar2  { position: relative; top: 7px;   }
+
+.fotar3  {position: relative; top: 2px;   }
+
+.fotar4  { position: relative; top: 1px;  }
+
+.fotar5  {  }
+
+.fotar6  { position: relative; top: 2px;  }
+
+
+.footar {     background-color:#0025FF;
+    padding-bottom: 44px;  position: relative; bottom: 942px; height: 450px; z-index: -1;             }
+
+
+.logo2{    width: 65px; position: relative; bottom: 1320px; left: 3%;   }
+
+
+.contact{ font-family: regular; display: flex; flex-direction: column; color: white; 
+  position: relative; bottom: 1410px;  left: 20%;  font-size: 14px; height: 16.1px;    }
+
+
+.contact{  line-height: 30px;  }
+
+
+.copyright {     font-family: regular; display: flex; flex-direction: column; color: white; 
+    position: relative; bottom: 1428.50px;  left: 40%;  font-size: 14px; height: 16.1px;       }
+
+.copyright {  line-height: 30px;  }
+
+
+.serve{  font-family: regular; display: flex; flex-direction: column; color: white; 
+    position: relative; bottom: 1446px;  left: 58%;  font-size: 14px; height: 16.1px;  }
+
+
+.serve{ line-height: 30px; }
+
+
+.icon{position: relative; bottom: 1439px;  left: 75%;  width: 30px; }
